@@ -1,0 +1,10 @@
+# Compiled C++ binaries
+*.exe
+*.out
+grid_game
+grid_game.exe
+
+# IDE / editor files
+.vscode/
+.idea/
+*.user
